@@ -1,2 +1,3 @@
-# Semester_Project
-Casino Number Guessing Game
+UEB3243522
+ANNOR MICHAEL
+IT(B) Class
